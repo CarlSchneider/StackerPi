@@ -1,0 +1,11 @@
+(dp1
+S'Images'
+p2
+I2
+sS'Interval'
+p3
+I3000
+sS'Pulse'
+p4
+F86.725868726000002
+s.
